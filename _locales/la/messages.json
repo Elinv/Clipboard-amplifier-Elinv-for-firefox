@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv clipboard ampli fi Firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Expanded clipboard ex menu Firefox in context",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv clipboard ampli fi Firefox @ MMXIX",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Est in mensa",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Est telephono mobili",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv ampli fi Clipboard",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "facite",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "felix",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "haud",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Exemplum illud fuit ut clipboard",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Valuitque clipboard exemplum.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Non effingo in textu:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Bene, non effingo.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Placet intra monumentum.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "permanens",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "tempus",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Current relatus est.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "In current status subcriptio",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Torcular item ad confirmandas",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

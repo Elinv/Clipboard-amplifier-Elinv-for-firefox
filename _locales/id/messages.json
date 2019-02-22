@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv clipboard amplifier untuk firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Papan klip yang diperluas di menu konteks Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Penguat clipboard Elinv untuk firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Itu adalah sebuah meja",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Ini ponsel",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv clipboard amplifier",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Buat",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "berhasil",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Gagal",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Salinan teks ke clipboard tadinya",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Salinan ke clipboard berhasil.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Teks tidak dapat disalin:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, kamu tidak bisa menyalin.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Silakan masukkan pengingat Anda.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Permanen",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Sementara",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Status terdaftar saat ini.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Daftarkan status saat ini",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Tekan lagi untuk konfirmasi",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

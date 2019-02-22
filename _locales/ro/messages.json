@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv amplificator clipboard pentru firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Fișierul clipboard extins din meniul contextual al aplicației Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Amplificator clipboard Elinv pentru firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Este o masă",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Este un telefon mobil",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv amplificator clipboard",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "face",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "de succes",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "nereușit",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Copia textului în clipboard a fost",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Copia în clipboard a avut succes.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Textul nu a putut fi copiat:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, nu poți copia.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Introduceți memento-ul.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "permanent",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "temporar",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Starea înregistrată curent.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Înregistrați starea curentă",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Apăsați din nou pentru a confirma",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "מגבר Elinv הלוח עבור",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "הלוח המורחב בתפריט ההקשר של Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "מגבר Elinv הלוח עבור Firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "זה שולחן",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "זה טלפון סלולרי",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "מגבר אלינו",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "הפוך",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "מוצלח",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "נכשל",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "העתק של הטקסט ללוח היה",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "העותק ללוח היה מוצלח.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "לא ניתן להעתיק את הטקסט:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "וואו, אתה לא יכול להעתיק.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "הזן את התזכורת שלך.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "קבע",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "זמני",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "הסטטוס הרשום הנוכחי.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "רשום את המצב הנוכחי",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "לחץ שוב כדי לאשר",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

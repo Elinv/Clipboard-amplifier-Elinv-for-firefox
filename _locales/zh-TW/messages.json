@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "放大器剪貼板Elinv for firefox。",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Firefox上下文菜單中的擴展剪貼板",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "用於firefox @ 2019的Elinv剪貼板放大器",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "這是一張桌子",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "這是一部手機",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv剪貼板放大器",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "做",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "成功",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "不成功",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "剪貼板的文本副本是",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "複製到剪貼板是成功的。",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "無法複製文字：",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "哇，你不能複制。",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "請輸入您的提醒。",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "永久",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "臨時",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "當前註冊狀態。",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "註冊當前狀態",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "再按一次確認",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

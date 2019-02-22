@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv Urklipp förstärkare för Firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Utökat urklipp i Firefox-menyn",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv Urklipp förstärkare för Firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Det är ett bord",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Det är en mobiltelefon",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv urklippsförstärkare",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "göra",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "framgångsrik",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "misslyckad",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Kopian av texten till Urklipp var",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopian till klippbordet lyckades.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Texten kunde inte kopieras:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, du kan inte kopiera.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Vänligen ange din påminnelse.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "permanent",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "tillfällig",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Aktuell registrerad status.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Registrera nuvarande status",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Tryck igen för att bekräfta",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

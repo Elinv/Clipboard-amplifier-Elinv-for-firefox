@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Усилвател на клипборда Elinv за firefox.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Разширен клипборд в контекстното меню на Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv клипборд усилвател за firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Това е маса",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Това е мобилен телефон",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Елинв клипборд усилвател ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "правя",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "успешното",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "неуспешен",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Копието на текста в клипборда беше ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Копирането в клипборда е успешно. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Текстът не можа да бъде копиран: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Уау, не можете да копирате. ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Моля, въведете напомнянето си. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "постоянен",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "временен",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Текущо регистриран статус.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Регистрирайте текущото състояние",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Натиснете отново, за да потвърдите",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

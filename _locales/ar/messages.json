@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "مكبر للصوت الحافظة Elinv لفايرفوكس.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "الحافظة الموسعة في قائمة سياق فايرفوكس",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "مضخم Elinv مكبر للصوت لفايرفوكس @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "إنه جدول",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "إنه هاتف محمول",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "مضخم Elinv مكبر للصوت ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "فعل",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "ناجح",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "غير ناجح",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "كانت نسخة النص إلى الحافظة ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "كانت النسخة إلى الحافظة ناجحة. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "لا يمكن نسخ النص: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "نجاح باهر ، لا يمكنك نسخ. ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "يرجى إدخال التذكير. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "دائم",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "مؤقت",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "الحالة الحالية المسجلة.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "تسجيل الحالة الحالية",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "اضغط مرة أخرى للتأكيد",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

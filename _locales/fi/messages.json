@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv leikepöydän vahvistin firefoxille",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Laajennettu leikepöytä Firefox-kontekstivalikossa",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv leikepöydän vahvistin firefox @ 2019: lle",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Se on pöytä",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Se on matkapuhelin",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv-leikepöydän vahvistin ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "do",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "onnistunut",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "epäonnistunut",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Tekstin kopio leikepöydälle oli ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopio leikepöydälle oli onnistunut. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Tekstiä ei voitu kopioida: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Vau, et voi kopioida. ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Anna muistutus. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "pysyvä",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "tilapäinen",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Nykyinen rekisteröity tila.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Rekisteröi nykyinen tila",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Vahvista painamalla uudelleen",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

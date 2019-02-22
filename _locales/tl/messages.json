@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv clipboard amplifier para sa firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Pinalawak na clipboard sa menu ng konteksto ng Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv clipboard amplifier para sa firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Ito ay isang talahanayan",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Ito ay isang mobile phone",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv clipboard amplifier",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Gumawa",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "matagumpay",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Nabigo",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Ang kopya ng teksto sa clipboard ay",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Ang kopya sa clipboard ay matagumpay.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Ang teksto ay hindi maaaring kopyahin:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, hindi ka makakopya.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Mangyaring ipasok ang iyong paalala.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Permanenteng",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Pansamantalang",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Kasalukuyang rehistradong katayuan.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Irehistro ang kasalukuyang katayuan",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Pindutin muli upang kumpirmahin",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

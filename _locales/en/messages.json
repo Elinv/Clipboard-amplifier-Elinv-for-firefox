@@ -1,0 +1,78 @@
+{
+    "extensionNombre": {
+        "message": "Clipboard amplifier Elinv for firefox",
+        "description": "Título del programa"
+    },
+    "extensionDescripcion": {
+        "message": "Extended clipboard in the Firefox context menu.",
+        "description": "descripción del programa"
+    },
+    "extensionTitleIcon": {
+        "message": "Clipboard amplifier Elinv for firefox @ 2019",
+        "description": "Title del icono de la extensión"
+    },
+    "esTable": {
+       "message":"It is a table",
+       "description":"Es una table"
+   },
+   "esMovil": {
+      "message":"It's a mobile phone",
+      "description":"Es un telefono móvil"
+   },
+   "titulo": {
+      "message":"Clipboard amplifier Elinv ",
+      "description":"Clipboard amplifier Elinv "
+   },
+   "menuTituloCrear": {
+      "message":"Make ",
+      "description":"Make "
+   },
+   "success": {
+      "message":"successful",
+      "description":"successful"
+   },
+   "unsucess": {
+      "message":"unsuccessful",
+      "description":"unsuccessful"
+   },
+   "copyToClipb": {
+      "message":"The copy of the text to the clipboard was ",
+      "description":"The copy of the text to the clipboard was "
+   },
+   "copyToClipbExitosa": {
+      "message":"Copying to clipboard was successful. ",
+      "description":"Copying to clipboard was successful. "
+   },
+   "copyToClipbErr": {
+      "message":"Could not copy text: ",
+      "description":"Could not copy text: "
+   },
+   "errCopyToClipb": {
+      "message":"Fallback: Oops, unable to copy. ",
+      "description":"Fallback: Oops, unable to copy. "
+   },
+   "reminderIn": {
+      "message":"Please enter your reminder. ",
+      "description":"Please enter your reminder. "
+   },
+   "permanente": {
+      "message":"Permanent",
+      "description":"Permanent"
+   },
+   "temporal": {
+      "message":"Temporary",
+      "description":"Temporary"
+   },
+   "recorded": {
+      "message":"Current status recorded.",
+      "description":"Current status recorded."
+   },
+   "botonStatus1": {
+      "message":"Record current status",
+      "description":"Record current status"
+   },
+   "botonStatus2": {
+      "message":"Press again to confirm",
+      "description":"Press again to confirm"
+   }
+}

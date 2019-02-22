@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv arbeleko anplifikatzailea firefox-era",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Arbelean luzatu da Firefoxen laster-menuan",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv arbel anplifikatzailea firefox @ 2019 for",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Mahai bat da",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Telefono mugikorra da",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv arbel anplifikatzailea ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "ez",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "arrakasta",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "arrakastarik",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Testuaren kopia arbelean zegoen ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Arbelean kopiatzea arrakastatsua izan da. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Testua ezin da kopiatu: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, ezin duzu kopiatu. ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Sartu zure oroigarria. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "iraunkorra",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Aldi baterako",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Oraingo erregistratutako egoera.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Uneko egoera erregistratu",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Sakatu berriro berresteko",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

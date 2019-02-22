@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Amplifier gearrtha Elinv le haghaidh firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Gearrthaisce leathnaithe sa roghchlár comhthéacs Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Amplifier gearrtha Elinv le haghaidh firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Tá sé ina tábla",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Is fón póca í",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Amplifier gearrthaisce Elinv",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Déan",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "rathúil",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Theip ar",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Ba é an cóip den téacs go dtí an gearrthaisce",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "D'éirigh leis an gcóip go dtí an gearrthaisce.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Níorbh fhéidir an téacs a chóipeáil:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, ní féidir leat cóip a dhéanamh.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Cuir isteach do mheabhrúchán.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Buan",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Sealadach",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Stádas cláraithe reatha.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Cláraigh an stádas reatha",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Brúigh arís le deimhniú",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

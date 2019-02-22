@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv vágólap erősítő Firefoxhoz",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Bővített vágólap a Firefox helyi menüjében",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv vágólap erősítő Firefox @ 2019 számára",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Ez egy asztal",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Ez egy mobiltelefon",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv vágólap erősítő",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "csinál",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "sikeres",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "sikertelen",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "A szöveg másolása a vágólapra volt",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "A vágólapra történő másolás sikeres volt.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "A szöveget nem lehetett másolni:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, nem tudsz másolni.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Kérjük, adja meg emlékeztetőjét.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "állandó",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "ideiglenes",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Jelenlegi regisztrált állapot.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Regisztrálja az aktuális állapotot",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "A megerősítéshez nyomja meg újra a gombot",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

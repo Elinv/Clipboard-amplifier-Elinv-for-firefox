@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv utklippstavleforsterker for firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Utvidet utklippstavle i Firefox-kontekstmenyen",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv utklippstavleforsterker for firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Det er et bord",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Det er en mobiltelefon",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv utklippstavleforsterker",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "gjøre",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "vellykket",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "mislykket",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Kopien av teksten til utklippstavlen var",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopien til utklippstavlen var vellykket.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Teksten kunne ikke kopieres:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, du kan ikke kopiere.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Vennligst skriv inn din påminnelse.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "permanent",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "midlertidig",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Gjeldende registrert status.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Registrer gjeldende status",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Trykk på igjen for å bekrefte",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

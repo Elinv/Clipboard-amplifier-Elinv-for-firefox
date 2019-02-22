@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Firefox için Elinv pano amplifikatörü",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Firefox içerik menüsünde genişletilmiş pano",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "2019'da firefox için Elinv pano amplifikatörü",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Bu bir masa",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Bu bir cep telefonu",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv pano amplifikatörü",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "do",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "başarılı",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "başarısız",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Metnin panoya kopyalanması",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Panoya kopyalandı.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Metin kopyalanamadı:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Vay, kopyalayamazsın.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Lütfen hatırlatıcınızı girin.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "kalıcı",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "geçici",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Mevcut kayıtlı durum.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Mevcut durumu kaydet",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Onaylamak için tekrar basın",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

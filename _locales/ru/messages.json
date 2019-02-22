@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Усилитель буфера обмена Elinv для Firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Расширенный буфер обмена в контекстном меню Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Усилитель буфера обмена Elinv для Firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Это стол",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Это мобильный телефон",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Усилитель буфера обмена Elinv",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "делать",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "успешный",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "неудачный",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Копия текста в буфер обмена была",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Копия в буфер обмена прошла успешно.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Текст не может быть скопирован:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Вау, вы не можете скопировать.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Пожалуйста, введите ваше напоминание.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "постоянный",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "временный",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Текущий зарегистрированный статус.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Зарегистрировать текущий статус",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Нажмите еще раз для подтверждения",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

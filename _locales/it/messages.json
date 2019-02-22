@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Amplificatore per appunti Elinv per firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Appunti estesi nel menu di scelta rapida di Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Amplificatore per appunti Elinv per firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "È un tavolo",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "È un telefono cellulare",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Amplificatore per appunti Elinv",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "fare",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "di successo",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "infruttuoso",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Era la copia del testo negli appunti",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "La copia negli appunti ha avuto successo.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Il testo non può essere copiato:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, non puoi copiare.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Per favore inserisci il tuo promemoria.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "permanente",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "temporaneo",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Stato attuale registrato.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Registra lo stato corrente",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Premere di nuovo per confermare",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

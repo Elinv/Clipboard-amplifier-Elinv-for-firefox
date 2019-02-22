@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Firefox用Elinvクリップボードアンプ",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Firefoxのコンテキストメニューの拡張クリップボード",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Firefox用のElinvクリップボードアンプ@ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "テーブルです",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "携帯電話です",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinvクリップボードアンプ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "作る",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "成功した",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "失敗しました",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "クリップボードへのテキストのコピーは",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "クリップボードへのコピーは成功しました。",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "テキストをコピーできませんでした。",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "うわー、あなたはコピーすることはできません。",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "注意事項を入力してください。",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "常設",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "一時的な",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "現在の登録ステータス",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "現在のステータスを登録する",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "確認のためもう一度押します",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

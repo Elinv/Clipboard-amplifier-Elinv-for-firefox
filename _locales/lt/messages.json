@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "„Elinv“ iškarpinės stiprintuvas „Firefox“",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Išplėstinė iškarpinė „Firefox“ kontekstiniame meniu",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv iškarpinės stiprintuvas firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Tai yra lentelė",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Tai mobilusis telefonas",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv iškarpinės stiprintuvas",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Padaryti",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "sėkmingai",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Nepavyko",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Teksto kopija į iškarpinę buvo",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopija į iškarpinę buvo sėkminga.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Negalima kopijuoti teksto:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Oho, jūs negalite kopijuoti.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Įveskite savo priminimą.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Nuolatinis",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Laikinas",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Dabartinis registruotas statusas.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Užregistruokite dabartinę būseną",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Paspauskite dar kartą, kad patvirtintumėte",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

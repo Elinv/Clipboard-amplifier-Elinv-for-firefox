@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Wzmacniacz schowka Elinv do firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Rozszerzony schowek w menu kontekstowym przeglądarki Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Wzmacniacz schowka Elinv na firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "To jest stół",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "To telefon komórkowy",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Wzmacniacz schowka Elinv",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Make",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "udany",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Nie powiodło się",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Kopia tekstu do schowka była",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopia do schowka zakończyła się powodzeniem.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Nie można skopiować tekstu:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, nie możesz skopiować.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Wprowadź swoje przypomnienie.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Trwałe",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Tymczasowe",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Aktualny zarejestrowany status.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Zarejestruj bieżący status",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Naciśnij ponownie, aby potwierdzić",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

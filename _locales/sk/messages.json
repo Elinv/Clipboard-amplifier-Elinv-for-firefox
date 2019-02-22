@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv schránkový zosilňovač pre firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Rozšírená schránka v kontextovej ponuke prehliadača Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv schránkový zosilňovač pre firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Je to tabuľka",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Je to mobilný telefón",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv schránkový zosilňovač",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "robiť",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "úspešný",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "neúspešný",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Kópia textu do schránky bola",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kópia do schránky bola úspešná.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Text nebolo možné skopírovať:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, nemôžete kopírovať.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Zadajte svoju pripomenutie.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "stály",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "dočasný",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Aktuálny registrovaný stav.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Zaregistrovať aktuálny stav",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Opätovným stlačením potvrďte",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

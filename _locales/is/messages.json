@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv klemmuspjald magnari fyrir eldur",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Extended klemmuspjald í Firefox samhengisvalmyndinni",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv klemmuspjald magnari fyrir Firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Það er borð",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Það er farsíma",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv klemmuspjald magnari",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Gerðu",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "vel",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Mistókst",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Afritið af textanum á klemmuspjaldið var",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Afritið til klemmuspjaldsins tókst.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Textinn var ekki hægt að afrita:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Vá, þú getur ekki afritað.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Vinsamlegast sláðu inn áminninguna þína.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Varanleg",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Tímabundið",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Núverandi skráður stöðu.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Skráðu núverandi stöðu",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Ýttu aftur til að staðfesta",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

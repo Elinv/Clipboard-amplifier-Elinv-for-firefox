@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Përforcues Elinv clipboard për firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Mbulesa e zgjeruar në menunë e kontekstit të Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Përforcues për clipboard Elinv për firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Është një tryezë",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Është një telefon celular",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Përforcues Elinv clipboard",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "bëj",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "i suksesshëm",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "i pasuksesshëm",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Kopja e tekstit në clipboard ishte",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopja në clipboard ishte e suksesshme.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Teksti nuk mund të kopjohej:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, ju nuk mund të kopjoni.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Jepni përkujtuesin tuaj.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "i përhershëm",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "i përkohshëm",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Statusi aktual i regjistruar.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Regjistro statusin aktual",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Shtypni përsëri për të konfirmuar",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "אַמפּליפיער קליפּבאָרד עלינוו פֿאַר פירעפאָקס.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "עקסטענדעד קליפּבאָרד אין די פירעפאָקס קאָנטעקסט מעניו",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "עלימין קליפּבאָרד אַמפּלאַפייער פֿאַר פירעפאָקס @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "עס איז אַ טיש",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "עס איז אַ מאָביל טעלעפאָן",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "עלינוו קליפּבאָרד אַמפּלאַפייער",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "מאַכן",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "מצליח",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "ניט געראָטן",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "די טעקסט פון די קופפלוק איז געווען קאפיטל",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "דער קאָפּיע צו די קליפּבאָרד איז געווען מצליח.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "דער טעקסט קען נישט זיין קאַפּיד:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "וואַו, איר קענען נישט נאָכמאַכן.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "ביטע אַרייַן דיין דערמאָנונג.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "שטענדיק",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "צייטווייליגע",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "קראַנט רעגיסטרירט סטאַטוס.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "פאַרשרייַבן דעם קראַנט סטאַטוס",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "דרוק ווידער צו באַשטעטיקן",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

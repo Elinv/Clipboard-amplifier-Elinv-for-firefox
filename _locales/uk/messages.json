@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Підсилювач буфера обміну Elinv для firefox.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Розширений буфер обміну в контекстному меню Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Підсилювач буфера обміну Елінва для firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Це таблиця",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Це мобільний телефон",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Елінв підсилювач буфера обміну",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Зробити",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "успішним",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "невдалий",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Копію тексту в буфер обміну було",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Копія в буфер обміну була успішною.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Не вдалося скопіювати текст:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, ви не можете копіювати.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Введіть нагадування.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Постійний",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Тимчасовий",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Поточний зареєстрований статус.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Зареєструйте поточний статус",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Натисніть ще раз для підтвердження",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

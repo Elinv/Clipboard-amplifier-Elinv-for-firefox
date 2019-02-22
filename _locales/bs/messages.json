@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Pojačalo clipboard Elinv za firefox.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Prošireni međuspremnik u Firefox kontekstnom izborniku",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv clipboard pojačalo za firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "To je stol",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "To je mobilni telefon",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv clipboard pojačalo ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Make",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "uspješan",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "neuspješno",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Kopija teksta u međuspremnik je bila ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Kopija u međuspremnik je bila uspješna. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Tekst nije mogao biti kopiran: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wow, ne možete kopirati. ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Unesite svoj podsjetnik. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Permanent",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Privremeno",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Trenutno registrovani status.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Registrujte trenutni status",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Pritisnite ponovo za potvrdu",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

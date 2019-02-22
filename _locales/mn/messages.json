@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Firefox-ийн Elinv клипboard өсгөгч",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Firefox контекст цэсэн дэх өргөтгөсөн clipboard",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "2019 @ firefox-т Elinv клипboard өсгөгч",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Энэ бол ширээ юм",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Энэ бол гар утас юм",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv клипboard өсгөгч",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Дуусгах",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "амжилттай болсон",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Амжилтгүй болсон",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Текстийн хуулбар нь clipboard байсан",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Хуулбар нь клипийг амжилттай болгосон.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Текст хуулж болохгүй:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Хөөх, та хуулж чадахгүй.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Өөрийн сануулагчийг оруулна уу.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Байнгын",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Түр зуурын",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Одоо бүртгэгдсэн статус.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Одоогийн статусыг бүртгүүлэх",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Баталгаажуулахын тулд дахин дарна уу",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

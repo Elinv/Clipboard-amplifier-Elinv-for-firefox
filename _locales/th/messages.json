@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "เครื่องขยายเสียงคลิปบอร์ด Elinv สำหรับ firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "ขยายคลิปบอร์ดในเมนูบริบทของ Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "เครื่องขยายสัญญาณคลิปบอร์ด Elinv สำหรับ firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "มันเป็นตาราง",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "มันเป็นโทรศัพท์มือถือ",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "เครื่องขยายเสียงคลิปบอร์ด Elinv",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "ทำ",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "ที่ประสบความสำเร็จ",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "ไม่สำเร็จ",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "คัดลอกข้อความไปยังคลิปบอร์ดคือ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "คัดลอกไปยังคลิปบอร์ดสำเร็จแล้ว",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "ไม่สามารถคัดลอกข้อความ:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "ว้าวคุณไม่สามารถคัดลอก",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "โปรดใส่คำเตือนของคุณ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "ถาวร",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "ชั่วคราว",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "สถานะการลงทะเบียนปัจจุบัน",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "ลงทะเบียนสถานะปัจจุบัน",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "กดอีกครั้งเพื่อยืนยัน",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

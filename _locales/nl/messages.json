@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv klembord versterker voor firefox",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Uitgebreid klembord in het Firefox-contextmenu",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv klembord versterker voor firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Het is een tafel",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Het is een mobiele telefoon",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv klembord versterker",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "do",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "geslaagd",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "mislukt",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "De kopie van de tekst naar het klembord was",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "De kopie naar het klembord was succesvol.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "De tekst kon niet worden gekopieerd:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Wauw, je kunt niet kopiëren.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Voer uw herinnering in.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "blijvend",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "tijdelijk",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Huidige geregistreerde status.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Registreer de huidige status",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Druk nogmaals op om te bevestigen",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

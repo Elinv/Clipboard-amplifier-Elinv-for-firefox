@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Εντολή ενισχυτή Elinv για Firefox.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Εκτεταμένο πρόχειρο στο μενού περιβάλλοντος του Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv ενισχυτή πρόχειρο για firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Είναι ένας πίνακας",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Είναι ένα κινητό τηλέφωνο",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Ενισχυτή πρόχειρου Elinv ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Κάνε",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "επιτυχής",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "ανεπιτυχής",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Το αντίγραφο του κειμένου στο πρόχειρο ήταν ",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Το αντίγραφο στο πρόχειρο ήταν επιτυχές. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Δεν ήταν δυνατή η αντιγραφή του κειμένου: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Ουάου, δεν μπορείτε να αντιγράψετε. ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Εισαγάγετε την υπενθύμιση. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Μόνιμη",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Προσωρινή",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Τρέχουσα καταχωρημένη κατάσταση.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Καταχωρίστε την τρέχουσα κατάσταση",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Πατήστε ξανά για επιβεβαίωση",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

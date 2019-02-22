@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Bộ khuếch đại clipboard Elinv cho firefox.",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Bảng tạm mở rộng trong menu ngữ cảnh Firefox",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Bộ khuếch đại clipboard Elinv cho firefox @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Nó là một cái bàn",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Đó là một chiếc điện thoại di động",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Bộ khuếch đại clipboard Elinv",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Làm",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "thành công",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "không thành công",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Bản sao của văn bản vào clipboard là",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Bản sao vào clipboard đã thành công.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Văn bản không thể được sao chép:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Ồ, bạn không thể sao chép.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Vui lòng nhập lời nhắc của bạn.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Vĩnh viễn",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Tạm thời",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Tình trạng đăng ký hiện tại.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Đăng ký trạng thái hiện tại",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Nhấn một lần nữa để xác nhận",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

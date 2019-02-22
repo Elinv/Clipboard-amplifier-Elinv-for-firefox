@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv clipboard ուժեղացուցիչ firefox- ի համար",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Ընդլայնված clipboard- ը Firefox- ի համատեքստում",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Elinv clipboard ուժեղացուցիչ firefox @ 2019- ի համար",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "Դա սեղան է",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "Դա բջջային հեռախոս է",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv clipboard ուժեղացուցիչ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Դարձնել",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "հաջողակ",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Չհաջողվեց",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Տեքստի պատճենը clipboard- ում էր",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Clipboard- ի պատճենը հաջող էր:",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Տեքստը չի կարող պատճենվել.",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Վայ, դուք չեք կարող պատճենել:",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Խնդրում ենք մուտքագրել ձեր հիշեցում:",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Մշտական",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Ժամանակավոր",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Ընթացիկ գրանցված կարգավիճակ:",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Գրանցեք ներկայիս կարգավիճակը",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Կրկին հաստատեք, հաստատելու համար",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

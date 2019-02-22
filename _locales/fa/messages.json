@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "تقویت کننده کلیپ بورد Elinv برای فایرفاکس",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "کلیپ بورد گسترش یافته در منوی زمینه فایرفاکس",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "تقویت کننده کلیپ بورد Elinv برای فایرفاکس 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "این یک جدول است",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "این تلفن همراه است",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "تقویت کننده کلیپ بورد Elinv ",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "ساختن",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "موفقیت",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "شکست خورد",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "کپی متن به کلیپ بورد بود",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "نسخه به کلیپ بورد موفق شد. ",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "متن را نمی توان کپی کرد: ",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "وای، شما نمیتوانید کپی کنید ",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "لطفا یادآوری خود را وارد کنید. ",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "دائمی",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "موقت",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "وضعیت ثبت شده فعلی",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "وضعیت فعلی را ثبت کنید",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "برای تایید دوباره فشار دهید",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

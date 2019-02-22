@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Елинв цлипбоард појачало за фирефок",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Проширени цлипбоард у контекстном менију Фирефок-а",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "Елинв цлипбоард појачало за фирефок @ 2019",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "То је стол",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "То је мобилни телефон",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Елинв цлипбоард појачало",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "Маке",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "успешан",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "Фаилед",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "Копија текста у клипборд је",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "Копија у клипборд је била успешна.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "Текст није могао бити копиран:",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "Вов, не можете копирати.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "Унесите подсјетник.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "Перманент",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "Привремено",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "Тренутни регистровани статус.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "Региструјте тренутни статус",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "Притисните поново за потврду",
+      "description": "Presione de nuevo para confirmar"
+   }
+}

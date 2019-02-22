@@ -1,0 +1,78 @@
+{
+   "extensionNombre": {
+      "message": "Elinv 파이어 폭스 용 클립 보드 앰프",
+      "description": "Título del programa"
+   },
+   "extensionDescripcion": {
+      "message": "Firefox 컨텍스트 메뉴에서 확장 클립 보드",
+      "description": "descripción del programa"
+   },
+   "extensionTitleIcon": {
+      "message": "firefox @ 2019 용 Elinv 클립 보드 앰프",
+      "description": "Title del icono de la extensión"
+   },
+   "esTable": {
+      "message": "그것은 테이블이다.",
+      "description": "Es una table"
+   },
+   "esMovil": {
+      "message": "그것은 휴대 전화입니다.",
+      "description": "Es un telefono móvil"
+   },
+   "titulo": {
+      "message": "Elinv 클립 보드 증폭기",
+      "description": "Amplificador portapapeles Elinv "
+   },
+   "menuTituloCrear": {
+      "message": "확인",
+      "description": "Hacer"
+   },
+   "success": {
+      "message": "성공한",
+      "description": "exitosa"
+   },
+   "unsucess": {
+      "message": "실패",
+      "description": "fracasada"
+   },
+   "copyToClipb": {
+      "message": "텍스트를 클립 보드에 복사하는 것은",
+      "description": "La copia del texto al portapapeles fue "
+   },
+   "copyToClipbExitosa": {
+      "message": "클립 보드로의 복사가 성공적이었습니다.",
+      "description": "La copia al portapapeles fue exitosa. "
+   },
+   "copyToClipbErr": {
+      "message": "텍스트를 복사 할 수 없습니다 :",
+      "description": "No se pudo copiar el texto: "
+   },
+   "errCopyToClipb": {
+      "message": "와우, 당신은 복사 할 수 없습니다.",
+      "description": "Vaya, no se puede copiar. "
+   },
+   "reminderIn": {
+      "message": "알림을 입력하십시오.",
+      "description": "Por favor ingrese su recordatorio. "
+   },
+   "permanente": {
+      "message": "영원한",
+      "description": "Permanente"
+   },
+   "temporal": {
+      "message": "임시",
+      "description": "Temporal"
+   },
+   "recorded": {
+      "message": "현재 등록 된 상태입니다.",
+      "description": "Estado actual registrado."
+   },
+   "botonStatus1": {
+      "message": "현재 상태 등록",
+      "description": "Registrar el estado actual"
+   },
+   "botonStatus2": {
+      "message": "확인을 위해 다시 누릅니다.",
+      "description": "Presione de nuevo para confirmar"
+   }
+}
