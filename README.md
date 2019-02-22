@@ -16,3 +16,6 @@ Gracias!
 
 Errores, sugerencias, ideas, envialas a nuestro mail: <elinv.elinv@gmail.com>
 
+## 	Demo
+
+![demo](Clipboard_Amplifier_Elinv_demo.gif)
