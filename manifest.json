@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "__MSG_extensionNombre__",
    "description": "__MSG_extensionDescripcion__",
-   "version": "1.0",
+   "version": "1.5",
    "author": "Elinv",
    "default_locale": "en",
    "icons": {
@@ -43,6 +43,7 @@
       "./opciones/img/10.png",
       "./opciones/img/11.png",
       "./opciones/img/12.png",
+      "./opciones/img/13.png",
       "./opciones/img/elinv.png"
    ],
    "browser_action": {

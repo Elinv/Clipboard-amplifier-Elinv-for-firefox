@@ -1,8 +1,3 @@
-/*
-   TERMINAR ayuda sobre los permisos.
-   Traducción al ingles de la pagina de ayuda.
-   Traducción de los configs
-*/
 
 let memNowElinvSpace = function () {
 
@@ -152,25 +147,53 @@ let memNowElinvSpace = function () {
                   }
                }
                var seleccion = `
-                    var respuesta = "";
-                    var textSelect = window.getSelection().toString();
-                    var titu = "${config.msg.titulo} \\n 〰️〰️〰️〰️〰️〰️〰️〰️〰️ \\n \\n "; 
-                    var memNowElinv = prompt(titu + " 📌 ${config.msg.reminderIn}", textSelect);
-                    if (memNowElinv != null){
-                        //permanent or temporary
-                        var estado;
-                        var r = confirm(titu + " ${config.msg.permanente} ✅ (OK) - ${config.msg.temporal} ⭕ (Cancel)");
-                        if (r == true) {
-                            estado = "  ~ ✅";
-                        } else {
-                            estado = "  ~ ⭕";
+               var respuesta = "";
+               var textSelect = ""; //window.getSelection().toString();                    
+               if (window.getSelection && document.activeElement){
+                  // obtenemos selección de inputs
+                  if (document.activeElement.nodeName == "TEXTAREA" ||
+                     (document.activeElement.nodeName == "INPUT" &&
+                     document.activeElement.getAttribute("type").toLowerCase() == "text")){
+                     let ta = document.activeElement;
+                     textSelect = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+                     // desde los iframes
+                  }else if (document.activeElement.nodeName == "IFRAME"){
+                     // aqui la selección desde el contenido del documento del iframe
+                     var iframe = document.getElementById(document.activeElement.id);
+                     let textProv = iframe.contentDocument.getSelection().toString();
+                     if (textProv.length > 0){
+                        textSelect = textProv;
+                     }else{
+                        // sino analizamos selección desde los inputs del iframe
+                        if (iframe.contentDocument.activeElement.nodeName == "TEXTAREA" ||
+                           (iframe.contentDocument.activeElement.nodeName == "INPUT" &&
+                           iframe.contentDocument.activeElement.getAttribute("type").toLowerCase() == "text")){
+                           // obtenemos la selección
+                           let taIframe = iframe.contentDocument.activeElement;
+                           textSelect = taIframe.value.substring(taIframe.selectionStart, taIframe.selectionEnd);
                         }
-                        respuesta = memNowElinv + estado;
-                    }                    
-                    `;
+                     }
+                  } else {
+                     textSelect = window.getSelection();
+                  }
+                  var titu = "${config.msg.titulo} \\n 〰️〰️〰️〰️〰️〰️〰️〰️〰️ \\n \\n "; 
+                  var memNowElinv = prompt(titu + " 📌 ${config.msg.reminderIn}", textSelect);
+                  if (memNowElinv){
+                     //permanent or temporary
+                     var estado;
+                     var r = confirm(titu + " ${config.msg.permanente} ✅ (OK) - ${config.msg.temporal} ⭕ (Cancel)");
+                     if (r == true) {
+                         estado = "  ~ ✅";
+                     } else {
+                         estado = "  ~ ⭕";
+                     }
+                     respuesta = memNowElinv + estado;
+                  }
+               }                  
+               `;
                var ejecutaScript = browser.tabs.executeScript({
                   code: seleccion
-               });
+               });               
                ejecutaScript.then(ejecutado, conError);
 
                break;
