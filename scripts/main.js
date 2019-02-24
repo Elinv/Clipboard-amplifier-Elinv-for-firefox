@@ -188,6 +188,8 @@ let memNowElinvSpace = function () {
                          estado = "  ~ ⭕";
                      }
                      respuesta = memNowElinv + estado;
+                  }else{
+                     respuesta = "";
                   }
                }                  
                `;
